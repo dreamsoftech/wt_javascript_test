@@ -4,7 +4,8 @@ export const api = {
 
 export const routes = {
   companies: {
-    index: '/companies'
+    index: '/companies',
+    save: '/companies/create_company'
   }
 }
 
